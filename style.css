@@ -1,3 +1,31 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.pack-price, .pack-name{
+    color:#231D4F;
+}
+.pack-info,.list-style{
+    color:#848199;
+}
+.fa-check-circle{
+    color:rgba(82, 67, 194, 0.7037);
+}
+.pack-btn{
+    background-color:#Fff5fa;
+    color:#3F87F5;
+
+}
+.pack-hot{
+    background-color:#3F87F5 ;
+    border-radius: 25px;
+}
+.pack-price-hot ,.pack-info-hot,.pack-style-hot,.pack-name-hot ,.list-style-hot{
+    color:white;
+}
+.pack-btn-hot{
+    background-color: white;
+    color:#3F87F5;
+}
+.i-hot{
+    color:#6b9de9;
+}
