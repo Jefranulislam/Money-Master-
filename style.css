@@ -29,3 +29,11 @@ body{
 .i-hot{
     color:#6b9de9;
 }
+
+
+/* Footer section   */
+
+.footer-bg{
+    background-color: #0B0D17;
+    height: 250px;
+}
